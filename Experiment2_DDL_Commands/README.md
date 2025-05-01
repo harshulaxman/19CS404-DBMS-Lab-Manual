@@ -1,5 +1,6 @@
 # Experiment 2: DDL Commands
-Name: HARSSHITHA LAKSHMANAN
+## Name: Harsshitha lakshmanan
+## Reg.no:212223230075
 # AIM
 To study and implement DDL commands and different types of constraints.
 
