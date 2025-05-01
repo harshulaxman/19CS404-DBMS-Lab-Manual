@@ -1,5 +1,6 @@
 # Experiment 6: Joins
-
+## Name: Harsshitha lakshmanan
+## Reg.no:212223230075
 ## AIM
 To study and implement different types of joins.
 
