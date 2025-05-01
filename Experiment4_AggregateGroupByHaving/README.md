@@ -1,5 +1,6 @@
 # Experiment 4: Aggregate Functions, Group By and Having Clause
-
+## Name: Harsshitha lakshmanan
+## Reg.no:212223230075
 ## AIM
 To study and implement aggregate functions, GROUP BY, and HAVING clause with suitable examples.
 
