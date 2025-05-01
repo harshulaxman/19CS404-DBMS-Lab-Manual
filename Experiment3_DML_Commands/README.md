@@ -1,5 +1,6 @@
 # Experiment 3: DML Commands
-NAME: HARSSHITHA LAKSHMANAN
+## Name: Harsshitha lakshmanan
+## Reg.no:212223230075
 
 ## AIM
 To study and implement DML (Data Manipulation Language) commands.
